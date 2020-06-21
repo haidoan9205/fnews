@@ -1,0 +1,22 @@
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\.NET\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\.NET\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+D:\.NET\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+D:\.NET\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\.NET\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\.NET\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+D:\.NET\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\.NET\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\.NET\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\.NET\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\.NET\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\.NET\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache

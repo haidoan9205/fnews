@@ -1,0 +1,23 @@
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+E:\Data\CN7\Azure Repositoty\InstanceJob\.NET\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+D:\.NET\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\.NET\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\.NET\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\.NET\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\.NET\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\.NET\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+D:\.NET\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\.NET\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\.NET\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\.NET\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\.NET\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\.NET\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
